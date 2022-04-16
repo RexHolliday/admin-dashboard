@@ -14,9 +14,6 @@ header {
     grid-template-rows: 1fr 2fr;
 }
 
-.top {
-    
-}
 
 button {
     border: none;
@@ -32,10 +29,6 @@ button {
  width: 400px;
  justify-self: start;
  align-self: center;
-}
-
-div.search {
-
 }
 
 button.search {
@@ -70,6 +63,7 @@ padding-top: 10px;
     font-weight: bold;
     font-size: 20px;
 }
+
 
 button.new, button.upload, button.share {
     border-radius: 25px;
